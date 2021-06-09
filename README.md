@@ -1,5 +1,6 @@
 # platzi-projects
 platzi-projects cruso de programacion.
+//
 [X]Crear tu cuenta en platzi. 
 
 
@@ -17,3 +18,4 @@ platzi-projects cruso de programacion.
 
 
 [X]la evidencias de realizacion son: Repositorio en GitHub con los cambios registrados en el curso, certificado de finalizacion, printscreen del resultado obtenido en la evaluacion.
+//
